@@ -1,0 +1,9 @@
+The size of rotstack is 4
+
+[0 0]
+[0 0]
+
+[0 0]
+[0 0]
+The size of rotstack is 0
+The maximal time taken is -1 minutes.
